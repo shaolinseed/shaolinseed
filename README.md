@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rahim
-- 👀 I’m interested in blockchain, machine learning and generative art.
-- 🌱 I’m currently learning the Plutus smart contract language (based on Haskell).
+- 👀 I’m interested in immersive web development, blockchain, machine learning.
 - 📫 How to reach me: rahimny99@gmail.com
 
 <!---
